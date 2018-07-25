@@ -9,5 +9,5 @@ def array_with_two_elements
 end
 
 def indexing(array)
-  array.first 
+  array[0] 
 end
