@@ -7,3 +7,7 @@ def array_with_two_elements
   new_array = [1, 2]
   return new_array
 end
+
+def indexing(array)
+  array.first 
+end
